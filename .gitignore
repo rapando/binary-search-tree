@@ -1,0 +1,6 @@
+.idea
+.fleet
+.vscode
+*swp
+tmp/
+build
